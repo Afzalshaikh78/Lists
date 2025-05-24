@@ -10,7 +10,7 @@ const App = () => {
   return(
     <div className="flex h-screen">
       <SideBar />
-      <div className="flex-1 p-6">
+      <div className="flex-1 p-7">
         <MainArea />
         <div className="mt-6">
           <h2 className="text-xl font-semibold mb-4 ml-[2rem]">Todo List</h2>
